@@ -8,8 +8,13 @@ Visual Studio: https://visualstudio.microsoft.com/
 Tutorial Js Ajax: https://www.w3schools.com/js/js_ajax_intro.asp
 <br>
 Bootstrap: https://getbootstrap.com/
+<br>
+[ADO.NET](https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/)
 
-```````html
+------------
+
+
+```html
 @using Microsoft.AspNet.Identity
 @model BigSchool.Models.ManageUserViewModel
 
@@ -46,5 +51,6 @@ Bootstrap: https://getbootstrap.com/
         </div>
     </div>
 }
+```
 
 /@anvndev@/
